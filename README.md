@@ -13,3 +13,7 @@ A collection of awesome projects built by or for Muslims
 ----
 ## Charity
 * [Launch Good](https://www.launchgood.com/) - A crowdfunding platform focused on the Muslim community worldwide
+
+----
+## Finance
+* [levels.fyi](https://www.levels.fyi/about/) - Provide accurate insights and services to help people build better careers
